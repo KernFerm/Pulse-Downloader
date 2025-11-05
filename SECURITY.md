@@ -16,3 +16,5 @@ Practices:
 
 Dependencies:
 - See requirements.txt for a complete list.
+
+# ***video_downloader.exe*** `SHA256 3B61768D282D940790E32E7F1204044011CD2B5A3DCB10FE6D96C54B51F6A40A`
