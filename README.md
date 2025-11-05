@@ -107,13 +107,7 @@ Features:
 - System tray support (Windows)
 - Exit and browse buttons
 
-Example screenshot (GUI):
-<p align="center">
-	<img src="https://github.com/KernFerm/video-downloader/blob/main/icons/video_downloader_main.png" alt="Video Downloader GUI" width="320" />
-</p>
-
 ---
-
 
 ---
 
@@ -180,6 +174,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 > **WARNING:** Only download content you have permission to download. Respect copyright and site Terms of Service.
+
 
 
 
