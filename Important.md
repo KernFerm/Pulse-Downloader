@@ -1,3 +1,4 @@
 - there are two `requirements.txt` one is for the **batch file** in the `video-downloader-main` folder.
 - batch file creates a `.venv` if none is found `.venv` is created.
 - supports `Linux`, `Mac Os`, `Windows`.
+- there is also a `.exe` for `windows only`.
