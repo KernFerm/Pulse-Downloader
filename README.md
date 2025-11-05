@@ -1,7 +1,7 @@
 
 # 🎬 PulseDownloader
 
-**Version: 0.0.23UdL36**
+**Version: 0.0.24Ud8Vo**
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -155,4 +155,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## ⚠️ Disclaimer
 
 > **WARNING:** Only download content you have permission to download. Respect copyright and site Terms of Service.
-
