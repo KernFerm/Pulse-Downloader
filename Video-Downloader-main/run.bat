@@ -2,7 +2,7 @@
 cd /d "%~dp0"
 echo.
 echo ======================================================
-echo  Video Downloader - Launcher
+echo  PulseDownloader - Launcher
 echo ======================================================
 echo.
 echo When prompted, press Enter to see the menu. Type a number (1-4) and press Enter to select an option.
@@ -13,12 +13,12 @@ echo.
 
 echo.
 echo ======================================================
-echo  Video Downloader - Launcher
+echo  PulseDownloader - Launcher
 echo ======================================================
 echo.
 echo Select launch method:
 echo.
-echo  [1] Launch Video Downloader (GUI)
+echo  [1] Launch PulseDownloader (GUI)
 echo  [2] Run in Command Line (CLI)
 echo  [3] Install/Update Dependencies
 echo  [4] Exit
@@ -36,20 +36,20 @@ goto :start
 :launch_gui
 echo.
 echo ========================================
-echo  Launching Video Downloader (GUI)
+echo  Launching PulseDownloader (GUI)
 echo ========================================
 echo.
-if exist video_downloader.exe (
-    start "Video Downloader" video_downloader.exe
+if exist Pulse_Downloader.exe (
+    start "PulseDownloader" Pulse_Downloader.exe
 ) else (
-    python video_downloader.py
+    python Pulse_Downloader.py
 )
 goto :end
 
 :launch_cli
 echo.
 echo ========================================
-echo  Running Video Downloader in CLI mode
+echo  Running PulseDownloader in CLI mode
 echo ========================================
 echo.
 set url=
@@ -63,17 +63,17 @@ if "%url%"=="" (
     goto :cli_prompt
 )
 set /p outdir="Enter output directory (leave blank for default): "
-if exist video_downloader.exe (
+if exist Pulse_Downloader.exe (
     if "%outdir%"=="" (
-        start "Video Downloader CLI" video_downloader.exe --no-gui "%url%"
+        start "PulseDownloader CLI" Pulse_Downloader.exe --no-gui "%url%"
     ) else (
-        start "Video Downloader CLI" video_downloader.exe --no-gui "%url%" -o "%outdir%"
+        start "PulseDownloader CLI" Pulse_Downloader.exe --no-gui "%url%" -o "%outdir%"
     )
 ) else (
     if "%outdir%"=="" (
-        python video_downloader.py --no-gui "%url%"
+        python Pulse_Downloader.py --no-gui "%url%"
     ) else (
-        python video_downloader.py --no-gui "%url%" -o "%outdir%"
+        python Pulse_Downloader.py --no-gui "%url%" -o "%outdir%"
     )
 )
 echo.
