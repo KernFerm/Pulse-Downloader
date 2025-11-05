@@ -5,7 +5,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/KernFerm/video-downloader/total.svg)](https://github.com/KernFerm/video-downloader)
 [![Security](https://img.shields.io/badge/security-verified-important.svg)](SECURITY.md)
 
 <p align="center">
@@ -156,3 +155,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## ⚠️ Disclaimer
 
 > **WARNING:** Only download content you have permission to download. Respect copyright and site Terms of Service.
+
