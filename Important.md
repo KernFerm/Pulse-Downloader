@@ -1,4 +1,17 @@
-- there are two `requirements.txt` one is for the **batch file** in the `video-downloader-main` folder.
-- batch file creates a `.venv` if none is found `.venv` is created.
-- supports `Linux`, `Mac Os`, `Windows`.
-- there is also a `.exe` for `windows only`.
+# 🚩 Important Information
+
+---
+
+- **Requirements Files**
+  - There are two `requirements.txt` files. One is for the batch file in the `video-downloader-main` folder.
+
+- **Virtual Environment**
+  - The batch file automatically creates a `.venv` if none is found in the folder.
+
+- **Platform Support**
+  - Supported platforms: **Linux**, **macOS**, and **Windows**.
+
+- **Windows Executable**
+  - A `.exe` file is available for Windows users only.
+
+---
