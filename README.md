@@ -119,9 +119,6 @@ Features:
 
 ---
 
-
----
-
 ## ❓ FAQ
 
 **Q: Why does my download fail?**
@@ -174,6 +171,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 > **WARNING:** Only download content you have permission to download. Respect copyright and site Terms of Service.
+
 
 
 
