@@ -37,7 +37,7 @@ For the full list of supported sites, see the official yt-dlp documentation:
 - [yt-dlp Supported Sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
 ## ***NOTE*** 
-> - you can not download from Netflix or any platforms like that **DRM Protection**.
+> - you can not download from Netflix or any platforms like that ***DRM Protection***.
 
 ---
 
