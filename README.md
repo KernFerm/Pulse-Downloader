@@ -156,3 +156,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 > **WARNING:** Only download content you have permission to download. Respect copyright and site Terms of Service.
 
+
+
+# [Click Here for PulseDownloader exe](https://github.com/KernFerm/Pulse-Downloader/releases/tag/Pulse-Downloader-EXE)
