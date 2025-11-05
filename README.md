@@ -165,7 +165,14 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## 📄 License
 
-MIT
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full terms, global disclaimers, indemnification, jurisdiction, and educational use restrictions.
+
+**Key points:**
+- You may use, modify, and distribute this software under the MIT License.
+- The developer is not liable for any damages or misuse.
+- You must comply with all applicable laws and copyright regulations.
+- Use is permitted for educational and non-commercial purposes; see LICENSE for details.
+- The LICENSE file includes global disclaimers, indemnification clauses, and jurisdiction information for legal protection.
 
 ---
 
@@ -173,5 +180,6 @@ MIT
 
 
 > **WARNING:** Only download content you have permission to download. Respect copyright and site Terms of Service.
+
 
 
