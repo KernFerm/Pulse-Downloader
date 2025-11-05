@@ -11,7 +11,7 @@
 [![Security](https://img.shields.io/badge/security-verified-important.svg)](SECURITY.md)
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/76848676/236683021-2e7e7e7e-7e7e-4e7e-8e7e-7e7e7e7e7e7e.gif" alt="Video Downloader" width="320" />
+	<img src="https://github.com/KernFerm/video-downloader/blob/main/icons/video-download-pic.png" alt="Video Downloader" width="320" />
 </p>
 
 <p align="center">
@@ -173,4 +173,5 @@ MIT
 
 
 > **WARNING:** Only download content you have permission to download. Respect copyright and site Terms of Service.
+
 
