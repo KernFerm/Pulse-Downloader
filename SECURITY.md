@@ -6,7 +6,7 @@
 
 ## Supported Versions
 - Only the latest stable release of PulseDownloader is supported for security updates.
-- Beta version: `0.0.24Ud8Vo` — ready for public use, but still in beta mode.
+- Beta version: `0.0.28Kx1vL` — ready for public use, but still in beta mode.
 - Please report any issues or feedback to help improve the application.
 
 ---
@@ -30,4 +30,5 @@
 - PulseDownloader relies on well-maintained libraries such as yt-dlp, requests, tqdm, and PyQt5.
 
 ---
+
 
