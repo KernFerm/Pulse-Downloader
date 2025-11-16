@@ -42,7 +42,7 @@
 - ✅ **Custom output directory for downloads** (via -o or GUI)
 - ✅ **No GUI option for automation** (--no-gui)
 - ✅ **Auto fallback and no prompt options** (--auto-fallback, --no-prompt)
-- ✅ **Cross-platform** (Windows, macOS, Linux)
+- ✅ **Cross-platform** (Windows Only)
 - ✅ **Security:** All user inputs sanitized to prevent path traversal and injection attacks
 
 ---
@@ -159,5 +159,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 # [Click Here for PulseDownloader exe](https://github.com/KernFerm/Pulse-Downloader/releases/tag/Pulse-Downloader-Updated)
+
 
 
