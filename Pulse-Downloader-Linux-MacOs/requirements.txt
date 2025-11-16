@@ -1,4 +1,0 @@
-requests
-tqdm
-PyQt5
-yt-dlp
