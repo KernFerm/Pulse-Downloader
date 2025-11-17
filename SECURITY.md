@@ -1,6 +1,6 @@
 # Security Policy
 
-**Version:** 0.0.24Ud8Vo
+**Version:** 0.0.28Kx1vL
 
 ---
 
@@ -30,5 +30,6 @@
 - PulseDownloader relies on well-maintained libraries such as yt-dlp, requests, tqdm, and PyQt5.
 
 ---
+
 
 
