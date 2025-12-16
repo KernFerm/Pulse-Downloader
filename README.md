@@ -8,7 +8,7 @@
 [![Security](https://img.shields.io/badge/security-verified-important.svg)](SECURITY.md)
 
 <p align="center">
-	<img src="https://github.com/KernFerm/Pulse-Downloader/blob/main/icons/Pulse-Downloader-1.png" alt="PulseDownloader" width="320" />
+	<img src="https://github.com/KernFerm/Pulse-Downloader/blob/main/icons/Pulse-Downloader-2.png" alt="PulseDownloader" width="320" />
 </p>
 
 <p align="center">
@@ -159,6 +159,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 # [Click Here for PulseDownloader exe](https://github.com/KernFerm/Pulse-Downloader/releases/tag/Pulse-Downloader-Updated)
+
 
 
 
