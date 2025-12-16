@@ -18,6 +18,8 @@
 
 ---
 
+- [Discussions](https://github.com/KernFerm/Pulse-Downloader/discussions/1)
+
 ## 🚀 Features
 
 - ✅ **Always uses yt-dlp for supported platforms** (YouTube, Vimeo, SoundCloud, etc.)
@@ -159,6 +161,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 # [Click Here for PulseDownloader exe](https://github.com/KernFerm/Pulse-Downloader/releases/tag/Pulse-Downloader-Updated)
+
 
 
 
