@@ -49,6 +49,8 @@
 
 ---
 
+## - ANY ISSUES [CLICK TO CREATE NEW ISSUE](https://github.com/KernFerm/Pulse-Downloader/issues/new/choose) 
+
 ## 📦 Requirements
 
 - Python 3.11+
@@ -161,6 +163,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 # [Click Here for PulseDownloader exe](https://github.com/KernFerm/Pulse-Downloader/releases/tag/Pulse-Downloader-Updated)
+
 
 
 
