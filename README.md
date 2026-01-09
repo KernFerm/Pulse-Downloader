@@ -1,7 +1,7 @@
 
 # 🎬 PulseDownloader
 
-> **Version: 0.0.29Rx3vN**
+> **Version: 0.0.30Rz4vO**
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -163,6 +163,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 # [Click Here for PulseDownloader exe](https://github.com/KernFerm/Pulse-Downloader/releases/tag/Pulse-Downloader-Updated)
+
 
 
 
